@@ -1,0 +1,9 @@
+# https://github.com/github/gitignore/blob/main/WordPress.gitignore
+
+*.log
+.env
+/ci-cd
+ci-cd
+/vendor
+vendor
+/.htaccess
